@@ -1,0 +1,1 @@
+pathena MyAnalysis/ATestRun_jobOptions.py --inDS=mc16_13TeV.301535.Sherpa_CT10_eegammaPt10_35.merge.AOD.e3952_s3126_r10201_r10210  --outDS=user.mobelfki.mc16.301535.eegammaPt10.NTUP.e3952_s3126_r10201_r10210 --mergeOutput --nGBPerJob=MAX
