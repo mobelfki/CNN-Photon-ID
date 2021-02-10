@@ -1,9 +1,10 @@
 
-README file
-
-ZllyAthDerivation, is a framework built with AthDerivation > 21.2.51.0 .
-The goal of this framework is : - Applied the Z->lly event selection to MC and Data and select RadiativeZ events.
-                                - Decorate the radiated photon (Egamma object need to be generalize) with the calorimeter cells used to reconstruct the corresponding object.
+# ZllyAthDerivation
+is a framework built with ATLAS AthDerivation > 21.2.51.0.
+The goal of this framework is : 
+- Applied the Z->lly and single photon events selection to Monte Carlo and Data.  
+- Decorate the radiated photon (Egamma object need to be generalize) with the calorimeter cells used to reconstruct the corresponding object.
+- Produce ROOT Ntuple needed for CNN training
                                 
 # Setup 
 
